@@ -1,0 +1,2 @@
+MOUSEKEYS_ENABLE = no
+NKRO_ENABLE = yes
